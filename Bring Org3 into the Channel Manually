@@ -1,0 +1,8 @@
+#Bring Org3 into the Channel Manually
+
+./byfn.sh generate
+./byfn.sh up
+
+## Generate the Org3 Crypto Material
++ cd org3-artifacts
++ ../../bin/cryptogen generate --config=./org3-crypto.yaml
