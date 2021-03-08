@@ -1,3 +1,5 @@
+https://hyperledger-fabric.readthedocs.io/en/release-1.4/channel_update_tutorial.html
+
 #Bring Org3 into the Channel Manually
 
 ./byfn.sh generate
